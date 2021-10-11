@@ -1,1 +1,2 @@
-# Newton-s-Cradle
+# Newton's Cradle
+Constraint class
